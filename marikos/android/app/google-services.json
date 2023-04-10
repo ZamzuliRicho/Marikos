@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108202658533",
+    "project_id": "d-innep",
+    "storage_bucket": "d-innep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108202658533:android:51cec9b7d02288f8d4620c",
+        "android_client_info": {
+          "package_name": "com.example.marikos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108202658533-58daj3jvuh2rk6odpav933bb8bf08pt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9Wb4gK0no6jDfCops-6hQ9lILrVudSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108202658533-58daj3jvuh2rk6odpav933bb8bf08pt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
